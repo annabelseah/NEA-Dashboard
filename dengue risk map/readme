@@ -7,3 +7,5 @@ Materials:
 (i) grids.geojson - shapefile for grid polygons
 (ii) maptoken.txt - you need this to plot the chloropleth map
 (iii) requirements.txt - list of .py libraries required to be installed
+
+App deployed at: https://dengueriskmap.herokuapp.com/
