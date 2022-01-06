@@ -1,4 +1,5 @@
 Download EVERYTHING as Zip file - store in SAME folder on your local computer
+pip install dash in cmd
 Open app.py as "mainframe" in Python IDE of your choice (Spyder, VS Code etc)
 Use denguecases2.csv as your main file
 App is deployed and readily available online at: https://epithreshold.herokuapp.com/
