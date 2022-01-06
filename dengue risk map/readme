@@ -6,3 +6,4 @@ Open app.py and run - it should open in chrome
 Materials:
 (i) grids.geojson - shapefile for grid polygons
 (ii) maptoken.txt - you need this to plot the chloropleth map
+(iii) requirements.txt - list of .py libraries required to be installed
