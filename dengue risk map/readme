@@ -1,1 +1,4 @@
 pip install dash
+Download all the files and save into the same directory folder
+Download the "assets" folder into this same directory - keep as a separate folder
+Open app.py and run - it should open in chrome
